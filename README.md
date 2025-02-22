@@ -2,18 +2,19 @@
 
 Password Generator is a sleek and efficient React Native app that helps users create strong, secure, and customizable passwords instantly. Whether you need a password for online accounts, apps, or sensitive data, this tool ensures top-tier security with just a tap.
 
-Features:
-✅ Random Password Generation – Instantly generate secure passwords.
-✅ Customizable Options – Set length, include/exclude numbers, symbols, uppercase & lowercase letters.
-✅ One-Tap Copy – Easily copy passwords to your clipboard.
-✅ User-Friendly UI – Clean and intuitive design for seamless use.
-✅ Lightweight & Fast – Works smoothly on all devices.
+## Features  
+
+✅ Random Password Generation – Instantly generate secure passwords.  
+✅ Customizable Options – Set length, include/exclude numbers, symbols, uppercase & lowercase letters.  
+✅ One-Tap Copy – Easily copy passwords to your clipboard.  
+✅ User-Friendly UI – Clean and intuitive design for seamless use.  
+✅ Lightweight & Fast – Works smoothly on all devices.  
 
 Perfect for anyone who values privacy and security! 🔒
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
 ## Get started
+
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app). 
 
 1. Install dependencies
 
